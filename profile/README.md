@@ -1,7 +1,7 @@
 <img width="1130" alt="PolyWorld_logo" src="https://github.com/Poly-World/.github/assets/107834862/163dc6c5-3c86-4080-9c0f-9c6e2f7751ec">
 
 
-# 🐰POLY WORLD🐯
+# 🐰 POLY WORLD 🐯
 
 > [**서비스 사용하기 - 바로가기**]()  (현재 AWS 계정 크레딧 신청 & 거절 이슈로 인해 배포에 많은 지연이 발생하고 있습니다. 많은 양해 부탁드립니다.)   
 > [**서비스 소개 영상 - 바로가기**](https://youtu.be/vyOw3m2DY3U)  
@@ -10,6 +10,21 @@
 > [**Front-End Repo.**](https://github.com/Poly-World/polyworld-frontend)  
 > [**Back-End Repo.**](https://github.com/Poly-World/polyworld-backend)
 
+## 📋 목차
+### [**1. 프로젝트 기간**](#Period)    
+### [**2. 프로젝트 개요**](#PolyWorld)    
+### [**3. 팀원**](#Team)    
+### [**4. 기술스택 및 개발환경**](#Stack)    
+### [**5. 서비스 아키텍쳐**](#Architecture)     
+### [**6. 프로젝트 포스터**](#Poster)     
+
+<br/>
+
+<a name="Period"></a>
+## 📌 프로젝트 기간
+**2023.07.07~2023.08.10 (5주)**
+
+<a name="PolyWorld"></a>
 ## 📌 프로젝트 개요
 **인터랙티브하게 즐길 수 있는 3D형 메타버스 웹 SNS 플랫폼**
 > **_기획 배경_**    
@@ -23,17 +38,14 @@
 > 5. **친구 추가 및 방 입장**: 친구를 추가하고, 추가된 친구의 방으로 입장할 수 있는 포탈 기능을 제공합니다.
 > 6. **파도타기**: 친구 외에 랜덤 유저의 방으로 입장할 수 있습니다.
 
-
-## 📌 프로젝트 기간
-**2023.07.07~2023.08.10 (5주)**
-
+<a name="Team"></a>
 ## 📌 팀원
 | 이름   | 깃허브                                           |                   포지션                   | 이름   | 깃허브                                       |                  포지션                   |
 | :----- | :----------------------------------------------- | :----------------------------------------: | :----- | :------------------------------------------- | :---------------------------------------: |
 | 강의진 | [@uujeen](https://github.com/uujeen)             | ![](https://img.shields.io/badge/-FE-blue) | 김상주 | [@Jusang98](https://github.com/Jusang98)     | ![](https://img.shields.io/badge/-BE-red) |
 | 박정원 | [@jjjjjeongwon](https://github.com/jjjjjeongwon) | ![](https://img.shields.io/badge/-FE-blue) | 박성환 | [@sunghwan95](https://github.com/sunghwan95) | ![](https://img.shields.io/badge/-BE-red) |
 
-
+<a name="Stack"></a>
 ## 📌 기술스택 및 개발환경
 | 분류             | 기술                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -42,10 +54,11 @@
 | **Database**     | <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">     |
 | **Infra/Devops** | <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=FFFFFF"/>    |
 
+<a name="Architecture"></a>
 ## 📌 서비스 아키텍쳐
 <img width="679" alt="PolyWorld_아키텍쳐" src="https://github.com/Poly-World/.github/assets/107834862/f7158614-e131-4600-b613-113afce27702">
 
-
+<a name="Poster"></a>
 ## 📌 프로젝트 포스터
 ![PolyWorld_포스터](https://github.com/Poly-World/.github/assets/107834862/394caf13-1bb1-405d-aa5a-c3d90f27e6dc)
 
